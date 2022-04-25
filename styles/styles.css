@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.mainTitle {
+    font-family: sans-serif;
+}
+
+.topContainer {
+    background-color: rgb(6, 54, 0);
+    height: 10px;
+    width: 100%;
+    position: absolute;
+}
+
+.mainLogo {
+    position: absolute;
+    left: 2%;
+    top: 2%;
+    width: 20%;
+}
+
+.home {
+    display: inline-block;
+    position: absolute;
+    left: 25%;
+    font-size: 175%;
+    top: 57px;
+}
+.about {
+    display: inline-block;
+    position: absolute;
+    font-size: 175%;
+    top: 57px;
+    left: 35%;
+}
+.cabins {
+    display: inline-block;
+    position: absolute;
+    font-size: 175%;
+    top: 57px;
+    left: 47.5%;
+}
+
+.things {
+    display: inline-block;
+    position: absolute;
+    font-size: 175%;
+    top: 57px;
+    left: 57%;
+}
+.management {
+    display: inline-block;
+    position: absolute;
+    font-size: 175%;
+    top: 57px;
+    left: 73%;
+}
+
+.topStyles {
+    height: 175px;
+}
+
+.cabinImage {
+    width: 100%
+}
+
+.midContainer {
+    position: relative;
+}
+
+.schedule {
+    height: 175px;
+    width: 100%;
+    background-color: rgb(6, 54, 0);
+}
+
+.scheduleText {
+    position: relative;
+    top: 50px;
+    font-size: 300%;
+    color: white;
+    font-family: "Mr Dafoe", handwriting;
+    font-weight: 400;
+
+}
+
+.bottomContainer {
+    width: 100%;
+    margin-top: 100px;
+    display: inline-block;
+    margin-bottom: 100px;
+
+}
+
+.firstImg {
+    width: 28%;
+    margin-right: 20px;
+    border-radius: 10px;
+    border-color: black;
+    border: 4px;
+    border-style: solid;
+}
+.secondImg {
+    width: 28%;
+    margin-right: 20px;
+    border-radius: 10px;
+    border-color: black;
+    border: 4px;
+    border-style: solid;
+}
+.thirdImg {
+    width: 28%;
+    border-radius: 10px;
+    border-color: black;
+    border: 4px;
+    border-style: solid;
+}
+
